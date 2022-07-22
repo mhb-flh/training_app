@@ -1,0 +1,18 @@
+[
+  {
+    "title" : "Abs",
+    "img": "assets/waist.png"
+  },
+  {
+    "title" : "Arm",
+    "img": "assets/muscle.png"
+  },
+  {
+    "title" : "Leg",
+    "img": "assets/leg.png"
+  },
+  {
+    "title" : "Butt",
+    "img": "assets/butt.png"
+  }
+]
